@@ -103,10 +103,12 @@ Digital Realty Trust  ███████████                         
 | [`datacenters.sql`](datacenters.sql) | SQL | 3.8 MB | 18,110 | CREATE TABLE + INSERT statements |
 | [`datacenters.yaml`](datacenters.yaml) | YAML | 3.1 MB | 18,110 | Human-readable structured data |
 | [`datacenters-table.md`](datacenters-table.md) | Markdown | 1.4 MB | 18,110 | Browse the full list on GitHub |
+| [`datacenters_raw.json`](datacenters_raw.json) | JSON (raw) | 3.3 MB | 19,491 | Raw pre-dedup collection for auditing |
 
 </div>
 
 <p align="center"><i>GeoJSON and KML contain the 6,131 facilities (33.9%) that have verified GPS coordinates.</i></p>
+<p align="center"><i>The main <code>datacenters.json</code> is deduplicated. The <code>_raw</code> version is the pre-dedup collection for transparency.</i></p>
 
 ---
 
