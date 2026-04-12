@@ -6,6 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=Ringmast4r-Global-Data-Center-Map&label=Visitors&color=00ff00&style=flat-square" alt="Visitors">
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ringmast4r" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ringmast4r-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
+
 <h1 align="center">ATLAS</h1>
 <h3 align="center"><b>A</b>ll <b>T</b>he <b>L</b>ocations of <b>A</b>ll <b>S</b>ervers</h3>
 
