@@ -103,7 +103,7 @@ Digital Realty Trust  ███████████                         
 | [`datacenters.sql`](datacenters.sql) | SQL | 3.8 MB | 18,110 | CREATE TABLE + INSERT statements |
 | [`datacenters.yaml`](datacenters.yaml) | YAML | 3.1 MB | 18,110 | Human-readable structured data |
 | [`datacenters-table.md`](datacenters-table.md) | Markdown | 1.4 MB | 18,110 | Browse the full list on GitHub |
-| [`datacenters_raw.json`](datacenters_raw.json) | JSON (raw) | 3.3 MB | 19,491 | Raw pre-dedup collection for auditing |
+| [`datacenters_raw.json`](datacenters_raw.json) | JSON (raw) | 5.1 MB | 25,757 | Full raw pre-dedup collection for auditing |
 
 </div>
 
