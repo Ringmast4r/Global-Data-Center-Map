@@ -33,6 +33,7 @@
 | Countries        |    116  |
 | Operators        |  4,181  |
 | With GPS Coords  |  6,131  |
+| Raw (Pre-Dedup)  | 25,757  |
 +------------------+---------+
 ```
 
