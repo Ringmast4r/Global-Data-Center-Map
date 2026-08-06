@@ -1,3 +1,21 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:14364f,70:0e7c86,100:2ee6c5&height=230&section=header&text=ATLAS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=All%20The%20Locations%20of%20All%20Servers&descSize=17&descAlignY=54"/>
+
+<div align="center">
+
+[![Facilities](https://img.shields.io/badge/FACILITIES-18%2C110-0e7c86?style=for-the-badge&labelColor=0d1117)](#)
+[![Countries](https://img.shields.io/badge/COUNTRIES-116-00c6ff?style=for-the-badge&labelColor=0d1117)](#)
+[![Operators](https://img.shields.io/badge/OPERATORS-4%2C181-00e676?style=for-the-badge&labelColor=0d1117)](#)
+[![Formats](https://img.shields.io/badge/FORMATS-12-2ee6c5?style=for-the-badge&labelColor=0d1117)](#)
+[![License](https://img.shields.io/badge/LICENSE-ATTRIBUTION-ffa726?style=for-the-badge&labelColor=0d1117)](LICENSE)
+
+**The largest open data center location dataset on the internet.**
+
+Free to use for research, publications, and products. Credit required.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:14364f,70:0e7c86,100:2ee6c5&height=3&section=header"/>
+
 <p align="center">
   <img src="atlas.jpg" alt="ATLAS Globe" width="500">
 </p>
@@ -115,3 +133,29 @@ Digital Realty Trust  ███████████                         
 
 <p align="center"><b>License</b></p>
 <p align="center">All Rights Reserved. This dataset may not be used, copied, modified, or distributed without explicit written permission from the author.</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0e7c86,100:2ee6c5&height=2&section=header"/>
+
+<h2 align="center">License</h2>
+
+This dataset was previously **All Rights Reserved**. Because of the number of
+requests to use it, that restriction has been lifted.
+
+You may use, copy, publish, and build on this data - research papers, white
+papers, articles, visualizations, internal tools, commercial products - on one
+condition: **credit it.**
+
+```
+Data centers (c) Ringmast4r - Global-Data-Center-Map
+https://github.com/Ringmast4r/Global-Data-Center-Map
+```
+
+You do not need to ask permission. You do not owe me an email. But if you are
+building something with it, I would genuinely like to hear what - open an issue
+and tell me. I am curious.
+
+See [LICENSE](LICENSE) for the full terms, including a note on coordinate
+precision you should read before relying on this for anything serious.
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ee6c5,30:0e7c86,65:14364f,100:0d1117&height=140&section=footer"/>

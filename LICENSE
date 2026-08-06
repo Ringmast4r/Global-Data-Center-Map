@@ -1,25 +1,51 @@
-Copyright (c) 2025. All Rights Reserved.
+ATLAS / Global Data Center Map
+Copyright (c) 2025-2026 Ringmast4r
 
-PROPRIETARY AND CONFIDENTIAL
+PERMISSION TO USE - ATTRIBUTION REQUIRED
 
-This dataset and all associated files are the exclusive property of the copyright holder.
+This dataset was previously released under an All Rights Reserved license.
+Because of the volume of requests to use it, that restriction is lifted.
 
-RESTRICTIONS:
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of this dataset, to use, copy, publish, and build upon it -
+including in research papers, white papers, articles, visualizations, maps,
+internal tools, and commercial products - subject to the conditions below.
 
-1. No part of this dataset may be reproduced, distributed, or transmitted in any form
-   or by any means without the prior written permission of the copyright holder.
+CONDITIONS
 
-2. Commercial use, including but not limited to sale, licensing, or incorporation into
-   commercial products or services, is strictly prohibited without explicit written
-   authorization.
+1. ATTRIBUTION IS REQUIRED. Credit must appear wherever the data or anything
+   derived from it is shown or published. Use this form, or something clearly
+   equivalent:
 
-3. Modification, derivative works, or any transformation of this data is prohibited
-   without explicit written permission.
+       Data centers (c) Ringmast4r - Global-Data-Center-Map
+       https://github.com/Ringmast4r/Global-Data-Center-Map
 
-4. Attribution alone does not grant usage rights.
+   In academic work, cite it as you would any other dataset. In a visual
+   product, a credit line on the map, in the legend, or in an about panel is
+   fine. Attribution buried where a reader will not find it does not count.
 
-For licensing inquiries or permission requests, contact the repository owner.
+2. DO NOT CLAIM AUTHORSHIP. You may not present this dataset, or a
+   substantially unmodified copy of it, as your own compilation, nor
+   relicense it in a way that strips the attribution requirement from
+   downstream users.
 
-THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT.
+TELL ME WHAT YOU BUILT (OPTIONAL, BUT WELCOME)
+
+Not a condition of the license - you owe no email. But if you are using this
+for something, I would genuinely like to hear about it. Open an issue on the
+repository or get in touch. I am curious what people do with it.
+
+ACCURACY AND WARRANTY
+
+This dataset is compiled from open sources. Facility locations vary in
+precision: some are building-level coordinates, many resolve only to a city,
+and a portion fall back to state or country centroids. It is not verified
+ground truth, it is not complete, and it should not be treated as either.
+Check anything that matters before you rely on it.
+
+THE DATASET IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE DATASET OR THE USE OR OTHER DEALINGS IN THE DATASET.
