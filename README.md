@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,45:f7f7f7,100:e3e3e3&height=230&section=header&text=ATLAS&fontSize=80&fontColor=111111&animation=fadeIn&fontAlignY=34&desc=All%20The%20Locations%20of%20All%20Servers&descSize=17&descAlignY=54"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=230&section=header&text=ATLAS&fontSize=80&fontColor=111111&animation=fadeIn&fontAlignY=34&desc=All%20The%20Locations%20of%20All%20Servers&descSize=17&descAlignY=54"/>
 
 <div align="center">
 
@@ -155,4 +155,4 @@ See [LICENSE](LICENSE) for the full terms, including a note on coordinate
 precision you should read before relying on this for anything serious.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e3e3e3,55:f7f7f7,100:ffffff&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=140&section=footer"/>
