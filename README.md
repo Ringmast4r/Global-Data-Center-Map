@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=230&section=header&text=ATLAS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=All%20The%20Locations%20of%20All%20Servers&descSize=17&descAlignY=54"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,45:f7f7f7,100:e3e3e3&height=230&section=header&text=ATLAS&fontSize=80&fontColor=111111&animation=fadeIn&fontAlignY=34&desc=All%20The%20Locations%20of%20All%20Servers&descSize=17&descAlignY=54"/>
 
 <div align="center">
 
@@ -16,7 +16,7 @@ Free to use for research, publications, and products. Credit required.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=3&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e3e3e3,50:c9c9c9,100:e3e3e3&height=3&section=header"/>
 
 <p align="center">
   <img src="atlas.jpg" alt="ATLAS Globe" width="500">
@@ -131,7 +131,7 @@ Digital Realty Trust  ███████████                         
 <p align="center"><i>GeoJSON and KML contain the 6,131 facilities (33.9%) that have verified GPS coordinates.</i></p>
 <p align="center"><i>The main <code>datacenters.json</code> is deduplicated. The <code>_raw</code> version is the pre-dedup collection for transparency.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:434343,100:000000&height=3&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e3e3e3,50:c9c9c9,100:e3e3e3&height=3&section=header"/>
 
 <h2 align="center">License</h2>
 
@@ -155,4 +155,4 @@ See [LICENSE](LICENSE) for the full terms, including a note on coordinate
 precision you should read before relying on this for anything serious.
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e3e3e3,55:f7f7f7,100:ffffff&height=140&section=footer"/>
