@@ -1,8 +1,31 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=230&section=header&text=ATLAS&fontSize=80&fontColor=111111&animation=fadeIn&fontAlignY=34&desc=All%20The%20Locations%20of%20All%20Servers&descSize=17&descAlignY=54"/>
+<div align="center">
+
+<img width="100%" alt="GLOBAL DATA CENTER MAP" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3B526D&height=220&section=header&text=GLOBAL%20DATA%20CENTER%20MAP&fontSize=51&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cross-platform%20%7C%20CSV%20%7C%20GeoJSON%20%7C%20Dataset&descSize=16&descAlignY=58"/>
+
+`Cross-platform` `CSV` [`GeoJSON`](https://geojson.org/) `Dataset` - ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 formats.
+
+[Project website / live view](https://data-center-map.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B526D&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=ATLAS+%28All+The+Locations+of+All+Servers%29+--+18%2C110+data+centers+across+116...%3BCross-platform+%2F+CSV+%2F+GeoJSON+%2F+Dataset)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-Global--Data--Center--Map-3B526D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/Global-Data-Center-Map)
+[![Format](https://img.shields.io/badge/Format-CSV-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/Global-Data-Center-Map/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/Global-Data-Center-Map?style=flat-square&color=3B526D)](https://github.com/Ringmast4r/Global-Data-Center-Map/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/Global-Data-Center-Map?style=flat-square&color=3B526D)](https://github.com/Ringmast4r/Global-Data-Center-Map/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/Global-Data-Center-Map?style=flat-square&color=3B526D)](https://github.com/Ringmast4r/Global-Data-Center-Map)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/Global-Data-Center-Map?style=flat-square&color=3B526D)](https://github.com/Ringmast4r/Global-Data-Center-Map/commits/main)
+
+</div>
+
+---
+
+## `> project_reference`
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=808080&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=All+The+Locations+of+All+Servers.;18%2C110+facilities+%C2%B7+116+countries+%C2%B7+4%2C181+operators;The+internet+is+not+a+cloud.+It+is+buildings.)](https://git.io/typing-svg)
 
 [![Facilities](https://img.shields.io/badge/FACILITIES-18%2C110-000000?style=for-the-badge&labelColor=000000)](#)
 [![Countries](https://img.shields.io/badge/COUNTRIES-116-2E2E2E?style=for-the-badge&labelColor=000000)](#)
@@ -16,7 +39,6 @@ Free to use for research, publications, and products. Credit required.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e3e3e3,50:c9c9c9,100:e3e3e3&height=3&section=header"/>
 
 <p align="center">
   <img src="atlas.jpg" alt="ATLAS Globe" width="500">
@@ -131,7 +153,6 @@ Digital Realty Trust  ███████████                         
 <p align="center"><i>GeoJSON and KML contain the 6,131 facilities (33.9%) that have verified GPS coordinates.</i></p>
 <p align="center"><i>The main <code>datacenters.json</code> is deduplicated. The <code>_raw</code> version is the pre-dedup collection for transparency.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:e3e3e3,50:c9c9c9,100:e3e3e3&height=3&section=header"/>
 
 <h2 align="center">License</h2>
 
@@ -154,5 +175,10 @@ and tell me. I am curious.
 See [LICENSE](LICENSE) for the full terms, including a note on coordinate
 precision you should read before relying on this for anything serious.
 
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=140&section=footer"/>
+<div align="center">
+
+<img width="100%" alt="GLOBAL DATA CENTER MAP footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B526D,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20DATASET&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
